@@ -13,6 +13,7 @@ Un système de détection et classification de panneaux de signalisation routiè
 ## Structure du projet
 
 traffic-sign-detection/
+
 ├── data_processing.py # Traitement d'images et détection des panneaux
 ├── detection.py # Classification et affichage des résultats
 ├── model.py # Architecture et entraînement du modèle CNN
